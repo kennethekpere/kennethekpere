@@ -19,5 +19,5 @@ TypeScript → Node.js → React → PostgreSQL, with Terraform/AWS later. I'm r
 Bubble · Python · TypeScript (learning) · Git & GitHub
 
 ## Find me
-- [Portfolio]([your-portfolio-link](https://ekpere-kenneth-portfolio.bubbleapps.io/version-test/))
-- [LinkedIn]([your-linkedin-link](https://www.linkedin.com/in/ekpere-kenneth-68157840b/))
+- [Portfolio](https://ekpere-kenneth-portfolio.bubbleapps.io/version-test/)
+- [LinkedIn](https://www.linkedin.com/in/ekpere-kenneth-68157840b/)
